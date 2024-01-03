@@ -1,7 +1,8 @@
 #Domain
 xmr.2miners.com
+
 #IP
-#Peifile000
+#Profile000
 104.86.182.43
 162.19.139.184
 20.99.184.37
